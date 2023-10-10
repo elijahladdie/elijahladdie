@@ -8,6 +8,6 @@ I am Passionate and enthusiastic software engineer specialized in creating visua
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=elijahladdie&theme=tokyonight" />
 </p>
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elijahladdie&layout=compact&text_color=daf7dc&bg_color=151515&hide" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elijahladdie&layout=compact&text_color=daf7dc&bg_color=151515&hide=css" />
 </p>
 
