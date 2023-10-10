@@ -11,6 +11,6 @@ I am Passionate and enthusiastic software engineer specialized in creating visua
   
 
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elijahladdie&layout=compact&text_color=daf7dc&bg_color=151515&hide=css" />
-  <img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=elijahladdie&theme=tokyonight" />
+  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=elijahladdie&theme=tokyonight" />
 </div>
 
