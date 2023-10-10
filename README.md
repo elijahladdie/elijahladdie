@@ -9,7 +9,6 @@ I am Passionate and enthusiastic software engineer specialized in creating visua
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=elijahladdie&show_icons=true&theme=tokyonight" />
-  ![Elie 's GitHub stats](https://github-readme-stats.vercel.app/api?username=elijahladdie&show_icons=true)
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=elijahladdie&theme=tokyonight" />
 </p>
 <p align="center">
